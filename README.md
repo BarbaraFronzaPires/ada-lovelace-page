@@ -1,1 +1,25 @@
 # ada-lovelace-page
+Augusta Ada Byron nasceu em Byron, Londres, em 10 de dezembro de 1815. Mais conhecida como Ada Lovelace devido ao seu título de Condessa de Lovelace, herdou o talento com os números de sua mãe, Anne Isabella Byron, matemática e Baronesa de Wentworth. Seu pai foi o grande poeta inglês, Lord Byron que, quando ele recebeu a notícia que seria pai de uma menina, ficou extremamente desapontado — um dos motivos que o levou a se separar de Anne quando Ada tinha apenas dois meses.
+
+A mãe de Ada tentou manter Lord Byron afastado dos pensamentos da filha, e temia que a loucura e os dons poéticos do pai fossem passados para ela. Para evitar que isso acontecesse, a Baronesa manteve a filha ocupada e fazia com ela se dedicasse à música e à matemática, em especial à lógica matemática. Ainda que ser uma mãe exemplar fosse algo indispensável, Ada e Anne não tiveram uma relação boa ao longo da vida.
+
+Ainda jovem, aos 17 anos, Ada conhece Mary Sommerville, a qual passou a ser a mentora de Lovelace. Mary era uma estudiosa de matemática e cientista que entrou para a história ao se tornar a primeira mulher a ingressar na Sociedade real de Astronomia. Por causa dessa relação, Ada compareceu em um jantar a convite de Mary, o que fez com que ela conhecesse Charles Babbage. É nesse evento que a sua importante jornada no mundo da programação se inicia.
+
+Durante o jantar, ele comentou sobre o seu mais novo projeto — a criação de uma máquina diferencial capaz de realizar cálculos de polinômios de forma mecânica. Ada fica muito interessada, mas os dois não formaram uma parceria naquele momento. Além dessa criação, Lovelace se apaixonou pelo tear mecânico de Jacquard durante uma visita ao parque industrial britânico. Essa máquina era habilitada a utilizar cartões perfurados para controlar a criação de padrões nos tecidos produzidos.
+
+Após o casamento em 1835 com William King-Noel, Ada substituiu o sobrenome “Byron”, herdado do pai. Tempos depois, recebeu o título de Condessa de Lovelace junto ao marido. Após um adoecimento, Ada passou a estudar matemática com Augustus de Morgan, que é conhecido até hoje por ser o primeiro professor de matemática da Universidade de Londres. Também voltou a ter contato com Babbage e descobriu sobre seu novo projeto: a Máquina Analítica, grande invento para o avanço da tecnologia.
+
+Depois de ter desenvolvido a máquina diferencial, Charles tinha como objetivo criar uma máquina capaz de desenvolver diversas operações complexas. No entanto, Ada não se limitou à ideia de Babbage e notou que a nova máquina tinha potencial para processar símbolos também, como notações artísticas, textos e imagens.
+
+Em 1842 em Turim, na Itália, Charles participou de um seminário em que apresentou todos os resultados e cálculos obtidos sobre a Máquina Analítica. O matemático Luigi Menabrea, que assistiu à apresentação, transformou o seminário em um artigo. Ele foi publicado naquele mesmo ano na Biblioteca Universal de Genebra para que toda a comunidade científica tivesse acesso. Pouco depois, Babbage pediu para que Ada o traduzisse para inglês e adicionasse suas próprias anotações ao artigo.
+
+Um ano depois da publicação do artigo, Ada terminou a tradução e as anotações. O novo texto era três vezes maior que o original e foi dividido em notas classificadas alfabeticamente de A a G. A nota G ficou conhecida como o primeiro programa — algoritmo — de computador do mundo, o qual era capaz de computar os números de Bernoulli. Além do programa, Ada escreveu em suas notas que a invenção de Charles não só era capaz de computar números, mas conseguia também criar imagens.
+
+Em 1852 e com apenas 36 anos, Ada Lovelace faleceu devido a um câncer de útero. Em 1982, uma linguagem de programação recebeu o nome de “Ada” em homenagem a ela, que ficou conhecida como a primeira programadora da história.
+
+Infelizmente, a Máquina Analítica sofreu dificuldades para tomar forma por diversos motivos, dentre eles financeiro e político. Por isso, ela só foi construída após a morte de Charles e de Ada. Ela possuía grandes semelhanças com as máquinas atuais, com dispositivo de entrada, processamento e saída de dados. Essa criação, fez com que Babbage fosse considerado o pai do computador.
+Ada Lovelace foi a primeira a utilizar um programa em algoritmo e a tomar conhecimento da importância dos algoritmos na construção de um software. Por isso, muitas das evoluções tecnológicas que vieram depois dos estudos de Ada só foram possíveis devido às descobertas dela.
+
+É provável que, sem as notas de Lovelace, as máquinas demorassem mais para ser capazes de computar valores e realizar funções matemáticas. Além disso, os sistemas operacionais — os quais são construídos por meio de algoritmos — não existiriam.
+
+Por esse motivo, Ada traz representatividade à área da programação que é formada predominantemente por homens. Saber que as mulheres foram parte importante na construção da tecnologia e programação é algo essencial para que esse grupo ingresse cada vez mais na área e que o machismo enraizado nela diminua.
